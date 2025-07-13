@@ -54,7 +54,10 @@ Staycatin-Listing-Revenue-Analysis/
 
 ## 🌐 Live Tableau Dashboard
 
-📎 [View it on Tableau Public]([https://public.tableau.com/app/profile/your-name](https://public.tableau.com/views/ProjectDashboard1_17500805078090/ProjectDBALL?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+## 🌐 Live Tableau Dashboard
+
+📎 [View it on Tableau Public](https://public.tableau.com/views/ProjectDashboard1_17500805078090/ProjectDBALL?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 ---
